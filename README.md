@@ -11,8 +11,8 @@ Subnautica Thailand Community แปลไทย
 
 | Store  | Download |
 | ------------- | ------------- |
-|  Steam Store | [Subnautica-Thailand-Steam](http://github.com) |
-| Epic Store  | [Subnautica-Thailand-Epic](http://github.com) |
+|  Steam Store | [Subnautica-Thailand-Steam](https://github.com/simcolony/Subnautica-Thailand-Community/blob/master/Subnautica%20Thailand%20Bata%200.7%20-%20Steam%20Version.exe) |
+| Epic Store  | [Subnautica-Thailand-Epic](https://github.com/simcolony/Subnautica-Thailand-Community/blob/master/Subnautica%20Thailand%20Bata%200.7%20-%20Epic%20Version.exe) |
 
 ==============================
 
