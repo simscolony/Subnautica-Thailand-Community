@@ -2,9 +2,9 @@
 Subnautica Thailand Community แปลไทย
 
 #[Subnautica Thailand] Bata 0.7
-#Subnautica  แปลไทย อัพเดท 17 ธันวาคม 2561
+#Subnautica  แปลไทย อัพเดท 20 ธันวาคม 2561
 
-![SubnauticaV7](https://i.imgur.com/Vz60JCP.jpg)
+![SubnauticaV7](https://i.imgur.com/CsmZIco.jpg)
 
 # วิธีการลง
 * ดาวโหลดให้ตรง Store ที่เล่นเกม
