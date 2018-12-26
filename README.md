@@ -1,18 +1,18 @@
 # Subnautica-Thailand-Community
 Subnautica Thailand Community แปลไทย
 
-#[Subnautica Thailand] Bata 0.7
-#Subnautica  แปลไทย อัพเดท 20 ธันวาคม 2561
+#[Subnautica Thailand] Bata 0.8
+#Subnautica  แปลไทย อัพเดท 26 ธันวาคม 2561
 
-![SubnauticaV7](https://i.imgur.com/CsmZIco.jpg)
+![SubnauticaV8](https://i.imgur.com/cEGDJRZ.jpg)
 
 # วิธีการลง
 * ดาวโหลดให้ตรง Store ที่เล่นเกม
 
 | Store  | Download |
 | ------------- | ------------- |
-|  Steam Store | [Subnautica-Thailand-Steam](https://github.com/simcolony/Subnautica-Thailand-Community/blob/master/Subnautica%20Thailand%20Bata%200.7%20-%20Steam%20Version.exe) |
-| Epic Store  | [Subnautica-Thailand-Epic](https://github.com/simcolony/Subnautica-Thailand-Community/blob/master/Subnautica%20Thailand%20Bata%200.7%20-%20Epic%20Version.exe) |
+|  Steam Store | [Subnautica-Thailand-Steam](https://github.com/simcolony/Subnautica-Thailand-Community/releases/download/SBTH_08/Subnautica.Thailand.Bata.0.8.-.Steam.Version.exe) |
+| Epic Store  | [Subnautica-Thailand-Epic](https://github.com/simcolony/Subnautica-Thailand-Community/releases/download/SBTH_08/Subnautica.Thailand.Bata.0.8.-.Epic.Version.exe) |
 
 ==============================
 
