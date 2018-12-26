@@ -1,6 +1,6 @@
-#Subnautica-Thailand-Community ภาษาไทย
+# Subnautica-Thailand-Community ภาษาไทย
 
-#Subnautica Thailand Bata 0.8
+# Subnautica Thailand Bata 0.8
 Subnautica  แปลไทย อัพเดท 26 ธันวาคม 2561
 
 ![SubnauticaV8](https://i.imgur.com/cEGDJRZ.jpg)
