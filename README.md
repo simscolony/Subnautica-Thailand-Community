@@ -10,8 +10,8 @@ Subnautica  แปลไทย อัพเดท 26 ธันวาคม 2561
 
 | Store  | Download |
 | ------------- | ------------- |
-|  Steam Store | [Subnautica-Thailand-Steam](https://github.com/simcolony/Subnautica-Thailand-Community/releases/download/SBTH_08/Subnautica.Thailand.Bata.0.8.-.Steam.Version.exe) |
-| Epic Store  | [Subnautica-Thailand-Epic](https://github.com/simcolony/Subnautica-Thailand-Community/releases/download/SBTH_08/Subnautica.Thailand.Bata.0.8.-.Epic.Version.exe) |
+|  Steam Store V.0.8 | [Subnautica-Thailand-Steam](https://github.com/simcolony/Subnautica-Thailand-Community/releases/download/SBTH_08/Subnautica.Thailand.Bata.0.8.-.Steam.Version.exe) |
+| Epic Store   V.0.8| [Subnautica-Thailand-Epic](https://github.com/simcolony/Subnautica-Thailand-Community/releases/download/SBTH_08/Subnautica.Thailand.Bata.0.8.-.Epic.Version.exe) |
 
 ==============================
 
