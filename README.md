@@ -1,6 +1,7 @@
 # Subnautica Thailand Bata 1.0
 ## Subnautica  แปลไทย อัพเดท 2022
-<img src="https://image.api.playstation.com/vulcan/img/rnd/202009/3006/C76j3lYg8BNBWJRSYtI2ONbo.png" width=50% height=50%>
+
+![Subnautica](https://image.api.playstation.com/vulcan/img/rnd/202009/3006/C76j3lYg8BNBWJRSYtI2ONbo.png)
 
 # วิธีการลง
 * ดาวโหลดให้ตรง Store ที่เล่นเกม
@@ -15,7 +16,7 @@
 # Subnautica below Zero Thailand Bata 1.0
 ## Subnautica  แปลไทย อัพเดท 2022
 
-<img src="https://image.api.playstation.com/vulcan/ap/rnd/202103/1000/ajXEVMJhzxXuOezVXR6bFOkK.png" width=50% height=50%>
+![Subnautica](https://image.api.playstation.com/vulcan/ap/rnd/202103/1000/ajXEVMJhzxXuOezVXR6bFOkK.png)
 
 # วิธีการลง
 * ดาวโหลดให้ตรง Store ที่เล่นเกม
