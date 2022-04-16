@@ -10,8 +10,8 @@
 
 | Store  | Download |
 | ------------- | ------------- |
-|  Subnautica -Steam Store V.0.8 | [Subnautica-Thailand-Steam](https://github.com/simcolony/Subnautica-Thailand-Community/releases/download/SBTH_08/Subnautica.Thailand.Bata.0.8.-.Steam.Version.exe) |
-| Subnautica - Epic Store   V.0.8| [Subnautica-Thailand-Epic](https://github.com/simcolony/Subnautica-Thailand-Community/releases/download/SBTH_08/Subnautica.Thailand.Bata.0.8.-.Epic.Version.exe) |
+|  Subnautica -Steam Store V.1 | [Subnautica-Thailand-Steam](https://github.com/simcolony/Subnautica-Thailand-Community/releases/download/SBTH_08/Subnautica.Thailand.Bata.0.8.-.Steam.Version.exe) |
+| Subnautica - Epic Store   V.1| [Subnautica-Thailand-Epic](https://github.com/simcolony/Subnautica-Thailand-Community/releases/download/SBTH_08/Subnautica.Thailand.Bata.0.8.-.Epic.Version.exe) |
 
 
 
@@ -25,8 +25,8 @@
 
 | Store  | Download |
 | ------------- | ------------- |
-|  subnautica below zero - Steam Store V.0.8 | [Subnautica-Thailand-Steam]() |
-| subnautica below zero -Epic Store   V.0.8| [Subnautica-Thailand-Epic]() |
+|  subnautica below zero - Steam Store V.1 | [Subnautica below Zero-Thailand-Steam]() |
+| subnautica below zero -Epic Store   V.1 | [Subnautica below Zero-Thailand-Epic]() |
 
 
 ==============================
