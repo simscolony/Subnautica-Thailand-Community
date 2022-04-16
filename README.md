@@ -1,6 +1,3 @@
-#Subnautica And subnautica below zero แปลไทย อั
-
-
 # Subnautica Thailand Bata 1.0
 ## Subnautica  แปลไทย อัพเดท 2022
 <img src="https://image.api.playstation.com/vulcan/img/rnd/202009/3006/C76j3lYg8BNBWJRSYtI2ONbo.png" width=50% height=50%>
@@ -33,6 +30,9 @@
 ติดตามการอัพเดทที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/) หรือ [Subnautica Thailand Community](https://www.facebook.com/groups/1657511637905919/)
 
 หากพบปัญหา แจ้งแปลผิด หรือ ติดต่อสอบถามได้ที่[SIMSCOLONY](https://www.facebook.com/SimsColony/)
+
+ส่วนที่แปลแล้วจะนำลงเสนอ office game 
+https://translate.unknownworlds.com/translations
 ==============================
 
 ภายใต้การอนุญาติ 
