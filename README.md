@@ -3,7 +3,7 @@
 # Subnautica Thailand Bata 1.0
 ## Subnautica  แปลไทย อัพเดท 2022
 
-![Subnautica](https://image.api.playstation.com/vulcan/img/rnd/202009/3006/C76j3lYg8BNBWJRSYtI2ONbo.png=250x250)
+<img src="https://image.api.playstation.com/vulcan/img/rnd/202009/3006/C76j3lYg8BNBWJRSYtI2ONbo.png" width=50% height=50%>
 
 # วิธีการลง
 * ดาวโหลดให้ตรง Store ที่เล่นเกม
@@ -18,15 +18,15 @@
 # Subnautica below Zero Thailand Bata 1.0
 ## Subnautica  แปลไทย อัพเดท 2022
 
-![SubnauticaZero](https://image.api.playstation.com/vulcan/ap/rnd/202103/1000/ajXEVMJhzxXuOezVXR6bFOkK.png=250x250)
+<img src="https://image.api.playstation.com/vulcan/ap/rnd/202103/1000/ajXEVMJhzxXuOezVXR6bFOkK.png" width=50% height=50%>
 
 # วิธีการลง
 * ดาวโหลดให้ตรง Store ที่เล่นเกม
 
 | Store  | Download |
 | ------------- | ------------- |
-|  subnautica below zero - Steam Store V.0.8 | [Subnautica-Thailand-Steam](https://github.com/simcolony/Subnautica-Thailand-Community/releases/download/SBTH_08/Subnautica.Thailand.Bata.0.8.-.Steam.Version.exe) |
-| subnautica below zero -Epic Store   V.0.8| [Subnautica-Thailand-Epic](https://github.com/simcolony/Subnautica-Thailand-Community/releases/download/SBTH_08/Subnautica.Thailand.Bata.0.8.-.Epic.Version.exe) |
+|  subnautica below zero - Steam Store V.0.8 | [Subnautica-Thailand-Steam]() |
+| subnautica below zero -Epic Store   V.0.8| [Subnautica-Thailand-Epic]() |
 
 
 ==============================
