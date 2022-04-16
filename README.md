@@ -1,8 +1,8 @@
-# Subnautica-Thailand-Community ภาษาไทย
+#Subnautica And subnautica below zero แปลไทย อั
+
 
 # Subnautica Thailand Bata 1.0
 ## Subnautica  แปลไทย อัพเดท 2022
-
 <img src="https://image.api.playstation.com/vulcan/img/rnd/202009/3006/C76j3lYg8BNBWJRSYtI2ONbo.png" width=50% height=50%>
 
 # วิธีการลง
