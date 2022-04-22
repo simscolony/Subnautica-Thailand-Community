@@ -14,7 +14,7 @@
 
 
 # Subnautica below Zero Thailand Bata 1.0
-## Subnautica  แปลไทย อัพเดท 2022
+## Subnautica  แปลไทย อัพเดท 22 เมษา 2022
 
 ![Subnautica](https://image.api.playstation.com/vulcan/ap/rnd/202103/1000/ajXEVMJhzxXuOezVXR6bFOkK.png)
 
@@ -23,9 +23,7 @@
 
 | Store  | Download |
 | ------------- | ------------- |
-|  subnautica below zero - Steam Store V.1 | [Subnautica below Zero-Thailand-Steam]() |
-| subnautica below zero -Epic Store   V.1 | [Subnautica below Zero-Thailand-Epic]() |
-
+|  subnautica below zero - Steam Store V.0.1 | [Subnautica below Zero-Thailand-Steam](https://github.com/simscolony/Subnautica-Thailand-Community/raw/master/Subnautica.Below.zero.Thailand-0.1.Steam.exe) |
 
 ==============================
 ติดตามการอัพเดทที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/) หรือ [Subnautica Thailand Community](https://www.facebook.com/groups/1657511637905919/)
