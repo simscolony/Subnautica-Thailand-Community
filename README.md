@@ -15,6 +15,8 @@
 | Subnautica - Epic Store   V.1| [Subnautica-Thailand-Epic](https://github.com/simcolony/Subnautica-Thailand-Community/releases/download/SBTH_08/Subnautica.Thailand.Bata.0.8.-.Epic.Version.exe) |
 
 
+============================================================
+
 
 # Subnautica below Zero Thailand Bata 1.0
 ## Subnautica  แปลไทย อัพเดท 22 เมษา 2022
