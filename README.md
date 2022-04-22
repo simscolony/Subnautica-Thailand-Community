@@ -1,5 +1,5 @@
 # Subnautica Thailand Bata 1.0
-![Subnautica]https://scontent.fbkk14-1.fna.fbcdn.net/v/t39.30808-6/278184226_10226217012227713_7495164335631175325_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=5cd70e&_nc_eui2=AeEoUVWnpdcntCTFsTuYeDK9trp9Y5FSvDO2un1jkVK8M560-U63FfgBO7IDS62RIyM&_nc_ohc=LXZ6jixWyvoAX9XuLLq&_nc_ht=scontent.fbkk14-1.fna&oh=00_AT-uute7Hnyz53I-Zu1q5iHmUE5l_WPeUnV8uuAxORTNXw&oe=6266D3EB)
+![Subnautica](https://scontent.fbkk14-1.fna.fbcdn.net/v/t39.30808-6/278184226_10226217012227713_7495164335631175325_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=5cd70e&_nc_eui2=AeEoUVWnpdcntCTFsTuYeDK9trp9Y5FSvDO2un1jkVK8M560-U63FfgBO7IDS62RIyM&_nc_ohc=LXZ6jixWyvoAX9XuLLq&_nc_ht=scontent.fbkk14-1.fna&oh=00_AT-uute7Hnyz53I-Zu1q5iHmUE5l_WPeUnV8uuAxORTNXw&oe=6266D3EB)
 
 ## Subnautica  แปลไทย อัพเดท 2022
 
